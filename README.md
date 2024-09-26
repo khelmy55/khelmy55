@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khalid
-- 👀 I’m interested in in computational drug discovery
+- 👀 I’m interested in in machine learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
